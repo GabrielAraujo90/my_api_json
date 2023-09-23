@@ -1,0 +1,44 @@
+{
+  "filmes": [
+    {
+          "id": 1,
+          "titulo": "Senhor dos anéis",
+          "resumo":"Querem Destruir o anel",
+          "atores":"Orlando Bloom",
+          "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-mClXXZnkO87cqM8FHN-Nbk1LX-UlKC9PQ&usqp=CAU",
+          "duracao":250
+      },
+    {
+          "id": 2,
+          "titulo": "Clube da luta",
+          "resumo":"tiro porrada e bomba",
+          "atores":"Brad pitt",
+          "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAqRwWx71pstK06pRfjCtnu0DU2C7uVWLaA&usqp=CAU",
+          "duracao":270
+      },
+    {
+          "id": 3,
+          "titulo": "American PIE",
+          "resumo":"nheco nheco",
+          "atores":"Camisinha prudence sabor morango",
+          "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l4q8l_swT6LqxRhNtH59R2CCd7xmyJSCCA&usqp=CAU",
+          "duracao":100
+      },
+    {
+          "id": 4,
+          "titulo": "Frozen",
+          "resumo":"Ta gelado",
+          "atores":"Boneco de desenho animado",
+          "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAIPvs8wXy80Fo8OtsQsSruFcDUwYBD7e0oQ&usqp=CAU",
+          "duracao":210
+    }
+   
+   ],
+   "atores": [
+      {
+          "id": 1,
+          "nome":"Olando Bloom, Brad pitt, Camisinha Prudence sabor morango, Bonecos de desenho animado,",
+          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7N_b-vwORDEgNSIssct5VjcZ-vuraqWfRIw&usqp=CAU"      
+      }
+  ]
+}
